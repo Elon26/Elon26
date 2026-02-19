@@ -1,4 +1,4 @@
-# Hi, I'm Evgeny 👋
+# Hi, I'm Evgenii 👋
 
 **Senior Frontend / Mobile Engineer**  
 React, React Native, Svelte, Vue, TypeScript · 8+ years · Remote (EU-friendly)
