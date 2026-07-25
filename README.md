@@ -1,51 +1,81 @@
-# Hi, I'm Evgenii 👋
+# Evgenii Sologub
+**Senior Frontend Engineer | React, Next.js, TypeScript**
 
+Yerevean, Armenia | Remote (EU-friendly timezone)  
+Telegram: https://t.me/elon_26 | Email: evgeniy.sologub.vl@gmail.com  
+Phone / WhatsApp: +374-41-898-414 / +7-984-147-0246  
+
+---
+
+### SUMMARY
+Senior Frontend Engineer with 8+ years of dedicated web & mobile development experience (13+ years total professional background). Specialized in React, Next.js, React Native, and TypeScript. Strong background in Business Analysis, allowing a deep understanding of product requirements, user experience (UI/UX), and business goals. Proven track record of architecting scalable applications, leading migrations, and delivering cross-platform mobile products.
+
+---
+
+### SKILLS & TECH STACK
+
+* **Core & Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS/SASS
+* **Frontend Frameworks:** React 19, Next.js (App / Pages Router), Vue.js (Quasar)
+* **Mobile Development:** React Native, Expo, NativeWind, react-native-reanimated, react-native-mmkv
+* **State Management:** Redux Toolkit, MobX, Jotai, Vuex
+* **UI & Styling:** Tailwind CSS, Responsive Design, Pixel-Perfect Layouts, Figma
+* **API & Real-time:** REST API, WebSocket, Postman
+* **Tools & DevOps:** Webpack, Vite, Docker, Git / GitFlow, CI/CD, ESLint, Prettier
+* **Services & Analytics:** Firebase (Storage, Remote Config), Sentry, Apphud, Facebook SDK
+* **Methodologies:** Agile (Scrum / Kanban), Mentorship, Code Review, UI/UX Optimization
+
+---
+
+### WORK EXPERIENCE
+
+#### **AppsTrain** | Moscow (Remote)
 **Senior Frontend / Mobile Engineer**  
-React, React Native, TypeScript · 8+ years · Remote (EU-friendly)
+*September 2024 — July 2026 (1 year 11 months)*
+
+* **Product Delivery:** Engineered and released mobile & web applications on a tight schedule (~1 app every 2 months) using React Native, Expo, and TypeScript.
+* **Architecture & State:** Implemented high-performance local storage layer using Jotai + react-native-mmkv, ensuring zero-lag state synchronization and offline capability.
+* **UI/UX & Performance:** Built modular, fully responsive interfaces with NativeWind (Tailwind) and react-native-reanimated; integrated multi-language support (i18n).
+* **Quality Assurance:** Maintained a 95%+ first-time approval rate for client reviews and Apple App Store moderation through rigorous self-testing and ESLint/Prettier setup.
+* **Integrations:** Embedded critical third-party services including Firebase (Storage, Remote Config), Sentry for error tracking, Apphud for subscriptions, and Facebook SDK.
+* **Leadership:** Mentored a junior developer, conducted code reviews, and introduced process improvements that accelerated sprint completion times.
 
 ---
 
-## 🔧 Tech Stack
-**Frontend / Mobile:** React, React Native, Svelte, Vue, Next, Nuxt, Quasar  
-**Languages:** JavaScript, TypeScript, HTML5, CSS3, SCSS/SASS  
-**State & Forms:** Redux, Mobx, Vuex, React Hook Form  
-**API & Data:** REST, GraphQL + Apollo, WebSocket  
-**UI & Styling:** Tailwind, NativeWind (Tailwind for RN), Figma, Responsive & Pixel-perfect design  
-**Animations & Performance:** react-native-reanimated  
-**Mobile Storage:** react-native-mmkv  
-**Localization:** i18n (localization)  
-**Testing:** Jest, React Testing Library  
-**DevOps & Tools:** Git + GitFlow, Webpack, Vite, CI/CD (GitHub Actions, Netlify), Docker, Postman  
-**Product & Analytics:** Firebase Storage, Firebase Remote Config, Sentry, Apphud, Facebook SDK  
-**Other:** Agile (Scrum/Kanban), FSD, Lazy Loading, ESLint + Prettier
+#### **Yoshi Parts** | Vladivostok (yoshiparts.com)
+**Frontend Developer**  
+*November 2016 — March 2024 (7 years 5 months)*
 
-> ⚡ I focus on building user-friendly interfaces, clean architecture, and delivering projects that pass client review and Apple moderation on the first try.
-
----
-
-## 💼 Experience Highlights
-- Last 4 years: One project every 2 months, focusing on **React Native apps and web projects**  
-- Previous 4 years: Product company — improved core website (e-commerce) and built additional HR management site  
-- Emphasis on **UI/UX, modular architecture, and maintainable code**
+* **Main E-commerce Platform:** 
+  * Architected and migrated the primary global e-commerce marketplace (yoshiparts.com) from React CSR to Next.js SSR, significantly improving SEO indexing and initial page load speed.
+  * Successfully introduced a new business vertical (used auto parts trade) into the existing platform architecture.
+  * Systematically upgraded the application through major versions of React (up to React 19) and Next.js while refactoring legacy code modules.
+* **Internal HR Management System:**
+  * Developed a completely new employee management & access control portal from scratch using React and TypeScript, replacing an outdated plain JS tool.
+  * Subsequently migrated the platform to Next.js for unified tech-stack maintenance and enhanced performance.
+* **Admin & Operations Panel:**
+  * Developed complex features for the corporate admin panel using Vue.js and Quasar to monitor customer orders, inventory levels, real-time error logs, payment processing, and dynamic pricing rules.
+* **Collaboration & Workflow:** Utilized WebSocket for real-time inventory updates, applied GitFlow branching strategy, and collaborated closely with designers via Figma.
 
 ---
 
-## 🚀 Featured Skills
-- **UI / UX Excellence:** Regular positive feedback from clients  
-- **Modular Architecture:** Optimized for scalability in small and medium apps  
-- **Mobile Product Experience:** Analytics, monetization, feature flags, crash monitoring  
-- **Remote Collaboration:** Experienced with distributed teams and Agile workflows
+#### **Vostokcement** | Vladivostok (vostokcement.ru)
+**Business Analyst**  
+*December 2011 — January 2016 (4 years 2 months)*
+
+* Analyzed, documented, and audited end-to-end business processes across a large industrial holding (from raw material extraction to real estate sales).
+* Automated key operational workflows in close collaboration with the internal software development team.
+* *Value for Engineering:* Developed a strong systems-thinking approach, business domain adaptability, and an ability to translate complex business requirements into clear technical specifications.
 
 ---
 
-## 📫 Contacts
-- LinkedIn: https://www.linkedin.com/in/evgenii-sologub  
-- Telegram: https://t.me/elon_26  
-- WhatsApp: +7-984-147-02-46  
-- Mobile: +995 593-23-64-34  
-- Email: evgeniy.sologub.vl@gmail.com
+### EDUCATION
+
+**Far Eastern Federal University (FEFU)**  
+Master’s Degree — Quality Management, Standardization & Certification (2012)
 
 ---
 
-## ⚡ Fun Fact
-I enjoy making **interfaces intuitive** and occasionally **optimizing animations** to delight the user — yes, even tiny details matter 😉
+### LANGUAGES
+
+* **Russian:** Native
+* **English:** B2 (Upper-Intermediate) — Fluent in professional communication, technical documentation, and remote team collaboration.
