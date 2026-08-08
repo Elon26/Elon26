@@ -32,12 +32,12 @@ Senior Frontend Engineer with 8+ years of dedicated web & mobile development exp
 **Senior Frontend / Mobile Engineer**  
 *September 2024 — July 2026 (1 year 11 months)*
 
-* **Product Delivery:** Engineered and released mobile & web applications on a tight schedule (~1 app every 2 months) using React Native, Expo, and TypeScript.
-* **Architecture & State:** Implemented high-performance local storage layer using Jotai + react-native-mmkv, ensuring zero-lag state synchronization and offline capability.
-* **UI/UX & Performance:** Built modular, fully responsive interfaces with NativeWind (Tailwind) and react-native-reanimated; integrated multi-language support (i18n).
-* **Quality Assurance:** Maintained a 95%+ first-time approval rate for client reviews and Apple App Store moderation through rigorous self-testing and ESLint/Prettier setup.
-* **Integrations:** Embedded critical third-party services including Firebase (Storage, Remote Config), Sentry for error tracking, Apphud for subscriptions, and Facebook SDK.
-* **Leadership:** Mentored a junior developer, conducted code reviews, and introduced process improvements that accelerated sprint completion times.
+* **Product Delivery:** Engineered and delivered scalable cross-platform web & mobile applications on tight deadlines (~1 production release every 2 months) using **React**, **TypeScript**, and modern ecosystem tooling.
+* **Architecture & State:** Architected high-performance, offline-first state management system using **Jotai** and persistent storage layers, ensuring zero-lag UI synchronization and seamless data caching.
+* **UI/UX & Performance:** Built modular, fully responsive UI component systems using **Tailwind CSS** and advanced animation libraries; integrated multi-language support (i18n) and cross-browser responsiveness.
+* **Integrations & Observability:** Integrated essential third-party services including **REST/GraphQL APIs**, **Firebase** (Storage, Remote Config), **Sentry** for real-time error tracking, and analytics SDKs.
+* **Quality & Standards:** Maintained a 95%+ first-time approval rate for client reviews and production releases through rigorous automated testing, code-splitting, and ESLint/Prettier configurations.
+* **Leadership:** Mentored junior developers, conducted code reviews, and established frontend best practices that accelerated team sprint completion times.
 
 ---
 
