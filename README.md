@@ -28,9 +28,19 @@ Senior Frontend Engineer with 8+ years of dedicated web & mobile development exp
 
 ### WORK EXPERIENCE
 
+### **Independent Frontend Contractor** | **Self-Employed**
+*Contract / Freelance | March 2026 – Present | Remote*
+
+* **Client Projects:** Engineered custom web applications and interactive dashboards for business clients using **React**, **Next.js**, and **TypeScript**, delivering high-performance UIs on schedule.
+* **Performance Optimization:** Conducted frontend code audits and SSR migrations (CSR to Next.js), achieving a 30%+ improvement in Core Web Vitals and initial page load speed.
+* **Architecture & UI Systems:** Designed modular, scalable component libraries using **Tailwind CSS** and modern state management (**Zustand** / **Jotai**).
+* **Integrations:** Connected third-party REST/GraphQL APIs, payment gateways, analytics tools, and headless CMS systems.
+
+---
+
 #### **AppsTrain** | Moscow (Remote)
 **Senior Frontend / Mobile Engineer**  
-*September 2024 — July 2026 (1 year 11 months)*
+*September 2024 — March 2026 (1 year 7 months)*
 
 * **Product Delivery:** Engineered and delivered scalable cross-platform web & mobile applications on tight deadlines (~1 production release every 2 months) using **React**, **TypeScript**, and modern ecosystem tooling.
 * **Architecture & State:** Architected high-performance, offline-first state management system using **Jotai** and persistent storage layers, ensuring zero-lag UI synchronization and seamless data caching.
