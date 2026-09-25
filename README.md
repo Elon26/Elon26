@@ -1,14 +1,14 @@
 # Evgenii Sologub
 **Senior Frontend Engineer | React, Next.js, TypeScript**
 
-Yerevean, Armenia | Remote (EU-friendly timezone)  
+Yerevean, Armenia | Remote 
 Telegram: https://t.me/elon_26 | Email: evgeniy.sologub.vl@gmail.com  
 Phone / WhatsApp: +374-41-898-414 / +7-984-147-0246  
 
 ---
 
 ### SUMMARY
-Senior Frontend Engineer with 8+ years of dedicated web & mobile development experience (13+ years total professional background). Specialized in React, Next.js, React Native, and TypeScript. Strong background in Business Analysis, allowing a deep understanding of product requirements, user experience (UI/UX), and business goals. Proven track record of architecting scalable applications, leading migrations, and delivering cross-platform mobile products.
+Senior Frontend Engineer with 9+ years of dedicated web & mobile development experience (13+ years total professional background). Specialized in React, Next.js, React Native, and TypeScript. Strong background in Business Analysis, allowing a deep understanding of product requirements, user experience (UI/UX), and business goals. Proven track record of architecting scalable applications, leading migrations, and delivering cross-platform mobile products.
 
 ---
 
@@ -38,7 +38,7 @@ Senior Frontend Engineer with 8+ years of dedicated web & mobile development exp
 
 ---
 
-#### **AppsTrain** | Moscow (Remote)
+#### **AppsTrain** | Remote
 **Senior Frontend / Mobile Engineer**  
 *September 2024 — March 2026 (1 year 7 months)*
 
@@ -51,7 +51,7 @@ Senior Frontend Engineer with 8+ years of dedicated web & mobile development exp
 
 ---
 
-#### **Yoshi Parts** | Vladivostok (yoshiparts.com)
+#### **Yoshi Parts** | Remote
 **Frontend Developer**  
 *November 2016 — March 2024 (7 years 5 months)*
 
