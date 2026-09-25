@@ -42,12 +42,9 @@ Senior Frontend Engineer with 9+ years of dedicated web experience. Specialized 
 **Senior Frontend / Mobile Engineer**  
 *September 2024 — March 2026 (1 year 7 months)*
 
-* **Product Delivery:** Engineered and delivered scalable cross-platform web & mobile applications on tight deadlines (~1 production release every 2 months) using **React**, **TypeScript**, and modern ecosystem tooling.
-* **Architecture & State:** Architected high-performance, offline-first state management system using **Jotai** and persistent storage layers, ensuring zero-lag UI synchronization and seamless data caching.
-* **UI/UX & Performance:** Built modular, fully responsive UI component systems using **Tailwind CSS** and advanced animation libraries; integrated multi-language support (i18n) and cross-browser responsiveness.
-* **Integrations & Observability:** Integrated essential third-party services including **REST/GraphQL APIs**, **Firebase** (Storage, Remote Config), **Sentry** for real-time error tracking, and analytics SDKs.
-* **Quality & Standards:** Maintained a 95%+ first-time approval rate for client reviews and production releases through rigorous automated testing, code-splitting, and ESLint/Prettier configurations.
-* **Leadership:** Mentored junior developers, conducted code reviews, and established frontend best practices that accelerated team sprint completion times.
+* **Rapid Product Delivery:** Shipped complex cross-platform web and mobile applications under aggressive deadlines (maintaining a predictable ~2-month release cycle per product iteration) using React, Next.js, and React Native. 
+* **Offline-First Architecture:** Designed and implemented a robust offline-first state management layer using Jotai and persistent storage, ensuring zero-lag UI synchronization and seamless data caching in unstable network environments. 
+* **Quality & Engineering Standards:** Maintained a 95%+ first-time approval rate for client reviews through rigorous code-splitting, strict ESLint/Prettier tooling, and proactive performance tuning.
 
 ---
 
@@ -55,16 +52,9 @@ Senior Frontend Engineer with 9+ years of dedicated web experience. Specialized 
 **Frontend Developer**  
 *November 2016 — March 2024 (7 years 5 months)*
 
-* **Main E-commerce Platform:** 
-  * Architected and migrated the primary global e-commerce marketplace (yoshiparts.com) from React CSR to Next.js SSR, significantly improving SEO indexing and initial page load speed.
-  * Successfully introduced a new business vertical (used auto parts trade) into the existing platform architecture.
-  * Systematically upgraded the application through major versions of React (up to React 19) and Next.js while refactoring legacy code modules.
-* **Internal HR Management System:**
-  * Developed a completely new employee management & access control portal from scratch using React and TypeScript, replacing an outdated plain JS tool.
-  * Subsequently migrated the platform to Next.js for unified tech-stack maintenance and enhanced performance.
-* **Admin & Operations Panel:**
-  * Developed complex features for the corporate admin panel using Vue.js and Quasar to monitor customer orders, inventory levels, real-time error logs, payment processing, and dynamic pricing rules.
-* **Collaboration & Workflow:** Utilized WebSocket for real-time inventory updates, applied GitFlow branching strategy, and collaborated closely with designers via Figma.
+* **Next.js SSR Migration:** Led the full architectural migration of a high-load global e-commerce marketplace from React CSR to Next.js SSR, eliminating client-side bottlenecks, ensuring instant initial render, and dramatically improving SEO indexing and search engine visibility. 
+* **Vertical Integration:** Architected and integrated a brand-new business vertical (used auto parts trade) directly into the existing complex marketplace core without breaking legacy checkout flows. 
+* **Ecosystem Evolution:** Systematically spearheaded major framework version upgrades (React up to v18, Next.js) and refactored legacy codebase modules, reducing technical debt and improving developer experience across the team.
 
 ---
 
