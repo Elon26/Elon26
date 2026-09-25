@@ -15,13 +15,15 @@ Senior Frontend Engineer with 9+ years of dedicated web experience. Specialized 
 ### SKILLS & TECH STACK
 
 * **Core & Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS/SASS
-* **Frontend Frameworks:** React 19, Next.js (App / Pages Router), Vue.js (Quasar)
+* **Frontend Frameworks:** React 19, Next.js (App / Pages Router), Vue.js
 * **Mobile Development:** React Native, Expo, NativeWind, react-native-reanimated, react-native-mmkv
-* **State Management:** Redux Toolkit, MobX, Jotai, Vuex
-* **UI & Styling:** Tailwind CSS, Responsive Design, Pixel-Perfect Layouts, Figma
+* **State & Data Fetching:** Redux Toolkit, RTK Query, Zustand, Jotai, MobX, TanStack Query (React Query), GraphQL, Apollo Client, Vuex
+* **Architecture & Styling:** Feature-Sliced Design (FSD), Tailwind CSS, CSS Modules, CSS-in-JS, Responsive Design, Pixel-Perfect Layouts, Figma
 * **API & Real-time:** REST API, WebSocket, Postman
-* **Tools & DevOps:** Webpack, Vite, Docker, Git / GitFlow, CI/CD, ESLint, Prettier
+* **Testing & Quality:** Jest, Vitest, React Testing Library, Playwright, Storybook, ESLint, Prettier, Accessibility (A11y), Localization (i18n)
+* **Tools & DevOps:** Webpack, Vite, Docker, Git / GitFlow, CI/CD
 * **Services & Analytics:** Firebase (Storage, Remote Config), Sentry, Apphud, Facebook SDK
+* **AI & Workflows:** AI-Driven Development (Cursor), Prompt Engineering
 * **Methodologies:** Agile (Scrum / Kanban), Mentorship, Code Review, UI/UX Optimization
 
 ---
