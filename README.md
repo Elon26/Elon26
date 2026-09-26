@@ -8,7 +8,7 @@ Phone / WhatsApp: +374-41-898-414 / +7-984-147-0246
 ---
 
 ### SUMMARY
-Senior Frontend Engineer with 9+ years of dedicated web experience. Specialized in React, Next.js and TypeScript. Strong background in Business Analysis, allowing a deep understanding of product requirements, user experience (UI/UX), and business goals. Proven track record of architecting scalable applications, leading migrations, and delivering cross-platform mobile products.
+Senior Frontend Engineer with 9+ years of experience in web development, specializing in React, Next.js, and TypeScript. Holds a deep understanding of scalable application architecture, migration strategies, and the implementation of high-load systems. In addition to core technical expertise, brings strong business analyst background, enabling a deep comprehension of the product value chain, UI/UX nuances, and how individual features and design choices align with company business goals. 
 
 ---
 
@@ -33,10 +33,10 @@ Senior Frontend Engineer with 9+ years of dedicated web experience. Specialized 
 ### **Independent Frontend Contractor** | **Self-Employed**
 *Contract / Freelance | March 2026 – Present | Remote*
 
-* **Client Projects:** Engineered custom web applications and interactive dashboards for business clients using **React**, **Next.js**, and **TypeScript**, delivering high-performance UIs on schedule.
-* **Performance Optimization:** Conducted frontend code audits and SSR migrations (CSR to Next.js), achieving a 30%+ improvement in Core Web Vitals and initial page load speed.
-* **Architecture & UI Systems:** Designed modular, scalable component libraries using **Tailwind CSS** and modern state management (**Zustand** / **Jotai**).
-* **Integrations:** Connected third-party REST/GraphQL APIs, payment gateways, analytics tools, and headless CMS systems.
+* **Next.js Migration:** Executed a full architectural migration of an English learning platform to Next.js (SSR/SSG), optimizing performance and SEO.
+* **UI Component Library:** Built a reusable UI component library comprising ~30 core components for an e-commerce client's storefront.
+* **MVP Development:** Developed an MVP for an internal staff skills assessment application, translating client design specs and requirements into a production-ready solution.
+* **Performance Audits:** Conducted multiple client-side application audits focusing on performance optimization, bottleneck detection, root-cause analysis for slow rendering, Core Web Vitals assessment, and general bug fixing.
 
 ---
 
@@ -44,9 +44,9 @@ Senior Frontend Engineer with 9+ years of dedicated web experience. Specialized 
 **Senior Frontend / Mobile Engineer**  
 *September 2024 — March 2026 (1 year 7 months)*
 
-* **Rapid Product Delivery:** Shipped complex cross-platform web and mobile applications under aggressive deadlines (maintaining a predictable ~2-month release cycle per product iteration) using React, Next.js, and React Native. 
-* **Offline-First Architecture:** Designed and implemented a robust offline-first state management layer using Jotai and persistent storage, ensuring zero-lag UI synchronization and seamless data caching in unstable network environments. 
-* **Quality & Engineering Standards:** Maintained a 95%+ first-time approval rate for client reviews through rigorous code-splitting, strict ESLint/Prettier tooling, and proactive performance tuning.
+* **Rapid Product Delivery:** Shipped complex cross-platform web and mobile applications under aggressive deadlines (maintaining a predictable ~2-month release cycle per MVP) using React, Next.js, and React Native. 
+* **Code Reusability:** Built and populated a UI library consisting of 50+ components of varying complexity, which was subsequently adopted as the standard by the entire development team. 
+* **Quality & Engineering Standards:** Achieved a 95%+ initial approval rate from clients and moderators by proactively evaluating and aligning client requirements during the development phase.
 
 ---
 
