@@ -33,7 +33,7 @@ Senior Frontend Engineer with 9+ years of experience in web development, special
 ### **Independent Frontend Contractor** | **Self-Employed**
 *Contract / Freelance | March 2026 – Present | Remote*
 
-* **Next.js Migration:** Executed a full architectural migration of an English learning platform to Next.js (SSR/SSG), optimizing performance and SEO.
+* **Next.js Migration:** Executed a full architectural migration of an English learning platform to Next.js SSR, optimizing performance and SEO.
 * **UI Component Library:** Built a reusable UI component library comprising ~30 core components for an e-commerce client's storefront.
 * **MVP Development:** Developed an MVP for an internal staff skills assessment application, translating client design specs and requirements into a production-ready solution.
 * **Performance Audits:** Conducted multiple client-side application audits focusing on performance optimization, bottleneck detection, root-cause analysis for slow rendering, Core Web Vitals assessment, and general bug fixing.
