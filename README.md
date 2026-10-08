@@ -26,8 +26,9 @@ Frontend Engineer with solid commercial experience specializing in React, Next.j
 
 ### WORK EXPERIENCE
 
-#### **Independent Frontend Contractor** | **Self-Employed**
-*Contract / Freelance | August 2026 – Present | Remote*
+#### **Independent Frontend Contractor** | **Self-Employed** | Remote
+**Contract / Freelance**
+*August 2026 – Present*
 
 * Executed full architectural migrations of web platforms to Next.js SSR, optimizing Core Web Vitals, performance, and SEO. 
 * Developed modular UI component libraries (30+ core components) for client storefronts. 
