@@ -1,5 +1,5 @@
 # Evgenii Sologub
-**Senior Frontend Engineer | React, Next.js, TypeScript**
+**Frontend Engineer | React, Next.js, TypeScript**
 
 Yerevean, Armenia | Remote 
 Telegram: https://t.me/elon_26 | Email: evgeniy.sologub.vl@gmail.com  
@@ -8,65 +8,52 @@ Phone / WhatsApp: +374-41-898-414 / +7-984-147-0246
 ---
 
 ### SUMMARY
-Senior Frontend Engineer with 9+ years of experience in web development, specializing in React, Next.js, and TypeScript. Holds a deep understanding of scalable application architecture, migration strategies, and the implementation of high-load systems. In addition to core technical expertise, brings strong business analyst background, enabling a deep comprehension of the product value chain, UI/UX nuances, and how individual features and design choices align with company business goals. 
+Frontend Engineer with solid commercial experience specializing in React, Next.js, and TypeScript. Focused on scalable application architecture, modular code organization, SSR migrations, and performance optimization. Strong engineering discipline, writing maintainable, production-ready code with clean separation of concerns.
 
 ---
 
 ### SKILLS & TECH STACK
 
 * **Core & Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS/SASS
-* **Frontend Frameworks:** React 19, Next.js (App / Pages Router), Vue.js
-* **Mobile Development:** React Native, Expo, NativeWind, react-native-reanimated, react-native-mmkv
+* **Frontend Frameworks:** React 19, Next.js (App / Pages Router)
 * **State & Data Fetching:** Redux Toolkit, RTK Query, Zustand, Jotai, MobX, TanStack Query (React Query), GraphQL, Apollo Client, Vuex
-* **Architecture & Styling:** Feature-Sliced Design (FSD), Tailwind CSS, CSS Modules, CSS-in-JS, Responsive Design, Pixel-Perfect Layouts, Figma
-* **API & Real-time:** REST API, WebSocket, Postman
+* **Architecture & Styling:** Modular Architecture, Component-Driven Development, Redux Toolkit, RTK Query, Zustand, TanStack Query, Tailwind CSS, CSS Modules 
 * **Testing & Quality:** Jest, Vitest, React Testing Library, Playwright, Storybook, ESLint, Prettier, Accessibility (A11y), Localization (i18n)
-* **Tools & DevOps:** Webpack, Vite, Docker, Git / GitFlow, CI/CD
-* **Services & Analytics:** Firebase (Storage, Remote Config), Sentry, Apphud, Facebook SDK
-* **AI & Workflows:** AI-Driven Development (Cursor), Prompt Engineering
-* **Methodologies:** Agile (Scrum / Kanban), Mentorship, Code Review, UI/UX Optimization
+* **Tools & DevOps:** Webpack, Vite, Docker, Git / GitFlow, CI/CD, Cursor (AI-driven development) 
+* **Languages:** Russian (Native), English (B2)
 
 ---
 
 ### WORK EXPERIENCE
 
 ### **Independent Frontend Contractor** | **Self-Employed**
-*Contract / Freelance | March 2026 – Present | Remote*
+*Contract / Freelance | August 2026 – Present | Remote*
 
-* **Next.js Migration:** Executed a full architectural migration of an English learning platform to Next.js SSR, optimizing performance and SEO.
-* **UI Component Library:** Built a reusable UI component library comprising ~30 core components for an e-commerce client's storefront.
-* **MVP Development:** Developed an MVP for an internal staff skills assessment application, translating client design specs and requirements into a production-ready solution.
-* **Performance Audits:** Conducted multiple client-side application audits focusing on performance optimization, bottleneck detection, root-cause analysis for slow rendering, Core Web Vitals assessment, and general bug fixing.
+* Executed full architectural migrations of web platforms to Next.js SSR, optimizing Core Web Vitals, performance, and SEO. 
+* Developed modular UI component libraries (30+ core components) for client storefronts. 
+* Implemented MVPs for internal staff applications, translating complex requirements into production-ready solutions. 
+* Conducted client-side application audits, bottleneck detection, and root-cause analysis for slow rendering.
 
 ---
 
 #### **AppsTrain** | Remote
-**Senior Frontend / Mobile Engineer**  
-*September 2024 — March 2026 (1 year 7 months)*
+**Frontend Engineer**  
+*September 2024 — August 2026 (2 years)*
 
-* **Rapid Product Delivery:** Shipped complex cross-platform web and mobile applications under aggressive deadlines (maintaining a predictable ~2-month release cycle per MVP) using React, Next.js, and React Native. 
-* **Code Reusability:** Built and populated a UI library consisting of 50+ components of varying complexity, which was subsequently adopted as the standard by the entire development team. 
-* **Quality & Engineering Standards:** Achieved a 95%+ initial approval rate from clients and moderators by proactively evaluating and aligning client requirements during the development phase.
+* Delivered complex web applications under tight deadlines using React and Next.js. 
+* Built and maintained a shared modular UI component library (50+ components), adopted as a standard across the team. 
+* Proactively aligned technical requirements with clients, ensuring high initial code approval rates.
 
 ---
 
 #### **Yoshi Parts** | Remote
 **Frontend Developer**  
-*November 2016 — March 2024 (7 years 5 months)*
+*February 2021 — March 2024 (3 years 2 months)*
 
-* **Next.js SSR Migration:** Led the full architectural migration of a high-load global e-commerce marketplace from React CSR to Next.js SSR, eliminating client-side bottlenecks, ensuring instant initial render, and dramatically improving SEO indexing and search engine visibility. 
-* **Vertical Integration:** Architected and integrated a brand-new business vertical (used auto parts trade) directly into the existing complex marketplace core without breaking legacy checkout flows. 
-* **Ecosystem Evolution:** Systematically spearheaded major framework version upgrades (React up to v18, Next.js) and refactored legacy codebase modules, reducing technical debt and improving developer experience across the team.
-
----
-
-#### **Vostokcement** | Vladivostok (vostokcement.ru)
-**Business Analyst**  
-*December 2011 — January 2016 (4 years 2 months)*
-
-* Analyzed, documented, and audited end-to-end business processes across a large industrial holding (from raw material extraction to real estate sales).
-* Automated key operational workflows in close collaboration with the internal software development team.
-* *Value for Engineering:* Developed a strong systems-thinking approach, business domain adaptability, and an ability to translate complex business requirements into clear technical specifications.
+* Led the frontend implementation of a high-load e-commerce platform, focusing on performance and component modularity. 
+* Contributed to the architectural migration from React CSR to Next.js SSR, significantly improving initial load times and SEO indexing. 
+* Integrated new business verticals into the existing core without disrupting legacy checkout flows. 
+* Spearheaded framework version upgrades and refactored legacy modules to reduce technical debt.
 
 ---
 
@@ -75,9 +62,3 @@ Senior Frontend Engineer with 9+ years of experience in web development, special
 **Far Eastern Federal University (FEFU)**  
 Master’s Degree — Quality Management, Standardization & Certification (2012)
 
----
-
-### LANGUAGES
-
-* **Russian:** Native
-* **English:** B2 (Upper-Intermediate) — Fluent in professional communication, technical documentation, and remote team collaboration.
