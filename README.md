@@ -30,10 +30,10 @@ Frontend Engineer with solid commercial experience specializing in React, Next.j
 **Contract / Freelance**  
 *August 2026 – Present*
 
-* Executed full architectural migrations of web platforms to Next.js SSR, optimizing Core Web Vitals, performance, and SEO. 
-* Developed modular UI component libraries (30+ core components) for client storefronts. 
-* Implemented MVPs for internal staff applications, translating complex requirements into production-ready solutions. 
-* Conducted client-side application audits, bottleneck detection, and root-cause analysis for slow rendering.
+* Next.js Migration: Executed full architectural migrations of web platforms to Next.js SSR, optimizing performance, Core Web Vitals, and SEO indexing.
+* UI Component Library: Built reusable modular UI component libraries (~30 core components) for client storefronts.
+* MVP Development: Developed MVPs for internal staff applications, translating complex client requirements into production-ready solutions.
+* Performance Audits: Conducted client-side application audits focusing on performance optimization, bottleneck detection, and root-cause analysis for slow rendering.
 
 ---
 
@@ -41,9 +41,9 @@ Frontend Engineer with solid commercial experience specializing in React, Next.j
 **Frontend Engineer**  
 *September 2024 — August 2026 (2 years)*
 
-* Delivered complex web applications under tight deadlines using React and Next.js. 
-* Built and maintained a shared modular UI component library (50+ components), adopted as a standard across the team. 
-* Proactively aligned technical requirements with clients, ensuring high initial code approval rates.
+* Rapid Product Delivery: Shipped complex web applications under aggressive deadlines (maintaining a predictable ~2-month release cycle per MVP) using React and Next.js.
+* Code Reusability: Built and populated a UI library consisting of 50+ components of varying complexity, which was subsequently adopted as the standard by the entire development team.
+* Quality & Standards: Achieved a 95%+ initial approval rate from clients and moderators by proactively evaluating and aligning technical requirements during the development phase.
 
 ---
 
@@ -51,10 +51,9 @@ Frontend Engineer with solid commercial experience specializing in React, Next.j
 **Frontend Developer**  
 *February 2021 — March 2024 (3 years 2 months)*
 
-* Led the frontend implementation of a high-load e-commerce platform, focusing on performance and component modularity. 
-* Contributed to the architectural migration from React CSR to Next.js SSR, significantly improving initial load times and SEO indexing. 
-* Integrated new business verticals into the existing core without disrupting legacy checkout flows. 
-* Spearheaded framework version upgrades and refactored legacy modules to reduce technical debt.
+* Next.js SSR Migration: Led the full architectural migration of a high-load global e-commerce marketplace from React CSR to Next.js SSR, eliminating client-side bottlenecks, ensuring instant initial render, and dramatically improving SEO indexing.
+* Vertical Integration: Architected and integrated a brand-new business vertical (used auto parts trade) directly into the existing complex marketplace core without breaking legacy checkout flows.
+* Ecosystem Evolution: Systematically spearheaded major framework version upgrades (React up to v18, Next.js) and refactored legacy codebase modules, reducing technical debt and improving developer experience across the team.
 
 ---
 
