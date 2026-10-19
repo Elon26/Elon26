@@ -28,7 +28,7 @@ Frontend Engineer with solid commercial experience specializing in React, Next.j
 
 #### **Independent Frontend Contractor** | **Self-Employed** | Remote
 **Contract / Freelance**  
-*August 2026 – Present*
+*August 2026 - Present*
 
 * Next.js Migration: Executed full architectural migrations of web platforms to Next.js SSR, optimizing performance, Core Web Vitals, and SEO indexing.
 * UI Component Library: Built reusable modular UI component libraries (~30 core components) for client storefronts.
@@ -39,7 +39,7 @@ Frontend Engineer with solid commercial experience specializing in React, Next.j
 
 #### **AppsTrain** | Remote
 **Frontend Engineer**  
-*September 2024 — August 2026 (2 years)*
+*September 2024 - August 2026 (2 years)*
 
 * Rapid Product Delivery: Shipped complex web applications under aggressive deadlines (maintaining a predictable ~2-month release cycle per MVP) using React and Next.js.
 * Code Reusability: Built and populated a UI library consisting of 50+ components of varying complexity, which was subsequently adopted as the standard by the entire development team.
@@ -49,7 +49,7 @@ Frontend Engineer with solid commercial experience specializing in React, Next.j
 
 #### **Yoshi Parts** | Remote
 **Frontend Developer**  
-*February 2021 — March 2024 (3 years 2 months)*
+*February 2021 - March 2024 (3 years 2 months)*
 
 * Next.js SSR Migration: Led the full architectural migration of a high-load global e-commerce marketplace from React CSR to Next.js SSR, eliminating client-side bottlenecks, ensuring instant initial render, and dramatically improving SEO indexing.
 * Vertical Integration: Architected and integrated a brand-new business vertical (used auto parts trade) directly into the existing complex marketplace core without breaking legacy checkout flows.
@@ -60,5 +60,5 @@ Frontend Engineer with solid commercial experience specializing in React, Next.j
 ### EDUCATION
 
 **Far Eastern Federal University (FEFU)**  
-Master’s Degree — Quality Management, Standardization & Certification (2012)
+Master’s Degree - Quality Management, Standardization & Certification (2012)
 
