@@ -8,7 +8,7 @@ Phone / WhatsApp: +374-41-898-414 / +7-984-147-0246
 ---
 
 ### SUMMARY
-Frontend Engineer with solid commercial experience specializing in React, Next.js, and TypeScript. Focused on scalable application architecture, modular code organization, SSR migrations, and performance optimization. Strong engineering discipline, writing maintainable, production-ready code with clean separation of concerns.
+Frontend Engineer specializing in React, Next.js, and TypeScript. Experience in scalable architecture, SSR migrations, modular component systems, and web performance optimization.
 
 ---
 
